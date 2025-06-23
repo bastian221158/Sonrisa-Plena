@@ -64,10 +64,10 @@ Este repositorio incluye un archivo `.rar` con el proyecto completo listo para u
 
 ## Imágenes del proyecto
 
-![Pantalla de Pacientes](https://ibb.co/2YNynmJY)
+![Pantalla de Pacientes](https://i.ibb.co/84c0KTk4/image.png)
 
-![Pantalla de Pacientes](https://ibb.co/PvsdntgR)
+![Pantalla de Pacientes](https://i.ibb.co/LXD3Wv1M/image.png)
 
-![Home](https://ibb.co/svTv1qkz)
+![Home](https://i.ibb.co/1fCfXThj/image.png)
 
 ---
