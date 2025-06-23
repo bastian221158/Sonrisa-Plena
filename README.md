@@ -37,3 +37,37 @@ Este repositorio incluye un archivo `.rar` con el proyecto completo listo para u
 "ConnectionStrings": {
   "ClinicaConnection": "Server=DESKTOP-XXX\\SQLEXPRESS;Database=ClinicaDb;Trusted_Connection=True;TrustServerCertificate=True"
 }
+```
+## Funcionalidades principales
+
+### Pacientes
+- Registro y gestión de datos personales: Nombre, RUT, Teléfono, Email y Dirección.
+- Historial completo de tratamientos realizados.
+- Operación para solicitar citas de manera sencilla.
+
+### Turnos
+- Registro de citas con fecha, hora y duración específicas.
+- Asociación directa con pacientes y odontólogos.
+- Estado del turno: Pendiente, Confirmado, Realizado o Cancelado.
+- Visualización semanal de la agenda para cada profesional.
+
+### Odontólogos
+- ABM (Alta, Baja, Modificación) de profesionales, incluyendo nombre, matrícula, especialidad y email.
+- Acceso a su propia agenda de turnos.
+- Acceso a las fichas clínicas de los pacientes asignados.
+
+### Tratamientos
+- ABM de tratamientos ofrecidos: nombre, descripción y precio estimado.
+- Registro de tratamientos realizados para actualizar el historial clínico de los pacientes.
+
+---
+
+## Imágenes del proyecto
+
+![Pantalla de Pacientes](https://ibb.co/2YNynmJY)
+
+![Pantalla de Pacientes](https://ibb.co/PvsdntgR)
+
+![Home](https://ibb.co/svTv1qkz)
+
+---
